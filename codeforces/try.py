@@ -18,3 +18,5 @@ example_list = [8,9,10]
 sorted_list = sorted(example_list, key=custom_sort_rule)
 
 print(sorted_list)  # Output: [9, 7, 6, 5, 5, 4, 3, 2, 1]
+s='11'
+print(s[:-1])
